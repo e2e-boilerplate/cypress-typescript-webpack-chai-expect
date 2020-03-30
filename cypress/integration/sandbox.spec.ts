@@ -5,12 +5,12 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     cy.title().then((title) => {
-      assert.equal(title, "Sandbox");
+      expect(title).to.eq("Sandbox");
     });
     cy.get("h1")
       .invoke("text")
       .then((header) => {
-        assert.equal(header, "Sandbox");
+        expect(header).to.eq("Sandbox");
       });
   });
 });
