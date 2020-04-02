@@ -1,13 +1,21 @@
 | No | Date           | Build                                                                                                                                                                 |
 | :- | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4  | 29/03/20 22:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66166691) |
-| 9  | 30/03/20 20:06 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66950046)         |
-| 6  | 30/03/20 11:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66620450) |
-| 11 | 30/03/20 21:10 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66994658)         |
+| 18 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/68743138) |
+| 19 | 01/04/20 23:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/68744703) |
+| 17 | 01/04/20 22:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/68721423) |
+| 16 | 31/03/20 22:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/67891162) |
+| 11 | 30/03/20 21:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66994658) |
+| 15 | 31/03/20 11:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/67511402) |
+| 12 | 30/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66995817) |
+| 14 | 31/03/20 10:20 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/67451272) |
 | 10 | 30/03/20 21:01 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66983106) |
-| 8  | 30/03/20 16:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66826610) |
-| 2  | 29/03/20 21:49 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66145175) |
 | 7  | 30/03/20 14:38 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66751073) |
-| 3  | 29/03/20 22:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66164111) |
-| 1  | 29/03/20 21:37 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66141902) |
+| 8  | 30/03/20 16:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66826610) |
 | 5  | 30/03/20 09:38 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66541853) |
+| 1  | 29/03/20 21:37 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66141902) |
+| 13 | 30/03/20 22:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/67029776) |
+| 2  | 29/03/20 21:49 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66145175) |
+| 4  | 29/03/20 22:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66166691) |
+| 6  | 30/03/20 11:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66620450) |
+| 9  | 30/03/20 20:06 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66950046)         |
+| 3  | 29/03/20 22:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions/runs/66164111) |
