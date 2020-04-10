@@ -1,7 +1,7 @@
 | referrer                                                                                         | count | uniques |
 | :----------------------------------------------------------------------------------------------- | :---- | :------ |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-expect/actions                                  | 7     | 1       |
-| /e2e-boilerplate/cypress-typescript-webpack-chai-expect                                          | 4     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-chai-expect                                          | 6     | 2       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-expect/tree/master/.github                      | 3     | 1       |
 | /xgirma/cypress-typescript-webpack-chai-expect                                                   | 3     | 1       |
 | /e2e-boilerplate/cypress-typescript-webpack-chai-expect/blob/master/.github/workflows/nodejs.yml | 2     | 1       |
